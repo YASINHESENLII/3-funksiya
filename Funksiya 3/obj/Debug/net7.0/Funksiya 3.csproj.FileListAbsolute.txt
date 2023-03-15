@@ -1,0 +1,5 @@
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya 3\Funksiya 3\obj\Debug\net7.0\Funksiya 3.csproj.AssemblyReference.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya 3\Funksiya 3\obj\Debug\net7.0\Funksiya 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya 3\Funksiya 3\obj\Debug\net7.0\Funksiya 3.AssemblyInfoInputs.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya 3\Funksiya 3\obj\Debug\net7.0\Funksiya 3.AssemblyInfo.cs
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya 3\Funksiya 3\obj\Debug\net7.0\Funksiya 3.csproj.CoreCompileInputs.cache
